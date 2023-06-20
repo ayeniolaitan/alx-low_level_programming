@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - A program that prints a line that puts function
+ * main - Entry point
  *
  * Return: 0 (Success)
  */
